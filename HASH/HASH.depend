@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733732208 source:c:\users\dasha\onedrive\Рабочий стол\hash\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<string>
+	<functional>
+	<random>
+	<algorithm>
+	<chrono>
+
